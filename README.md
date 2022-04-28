@@ -1,10 +1,11 @@
 # Software-Quality-Assurance
 
-## Types of Testing
+## Types of Testing: 
 
-### Manual Testing
-### Selenium automation testing
-### robotic process automation 
+### 1.Manual Testing
+### 2.Selenium automation testing
+### 3.robotic process automation 
+
 ### Testing Fundamental - SDLC & STLC, Waterfall cycle, Agile cycle.
 ### Types of Testing - Unit Testing, Acceptance Testing, Black Box Testing, White Box Testing, and more.
 ### Test Management: Test Plane and Test Case Development
