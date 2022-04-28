@@ -1,6 +1,6 @@
 # Software-Quality-Assurance
 
 
-# Manual Testing
-# Selenium automation testing
-# robotic process automation 
+### Manual Testing
+### Selenium automation testing
+### robotic process automation 
