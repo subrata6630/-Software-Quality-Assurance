@@ -5,10 +5,12 @@
 ### Selenium automation testing
 ### robotic process automation 
 ### Testing Fundamental - SDLC & STLC, Waterfall cycle, Agile cycle.
-### Types of Testing - Unit Testing, Acceptance Testing, Black Box ### Testing, White Box Testing, and more.
+### Types of Testing - Unit Testing, Acceptance Testing, Black Box Testing, White Box Testing, and more.
 ### Test Management: Test Plane and Test Case Development
 ### Testing Techniques - Equivalence Partitioning & Boundary Value Analysis
-#Develop Test Plan.
+
+# Develop Test Plan
+
 ### Testing in Real Life - Automated Test Case Design, Web Application Testing, Software Testing Life Cycle.
 ### Software Quality Assurance.
 ### Database Testing
