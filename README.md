@@ -7,7 +7,7 @@
 ### 3.robotic process automation 
 
 ### Testing Fundamental - SDLC & STLC, Waterfall cycle, Agile cycle.
-### Types of Testing - Unit Testing, Acceptance Testing, Black Box Testing, White Box Testing, and more.
+### Types of Testing - Unit Testing, Acceptance Testing, Black Box Testing, White Box Testing,System Testing, Integration Testing,
 ### Test Management: Test Plane and Test Case Development
 ### Testing Techniques - Equivalence Partitioning & Boundary Value Analysis
 
