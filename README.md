@@ -19,3 +19,14 @@
 ### Software Testing Automation Tools - Selenium-IDE
 ### You Can Write Manual And Automated Test Case By Yourself In Any Live Project
 
+
+# Tools to Automate Manual Testing
+
+#### Selenium
+#### QTP
+#### Jmeter
+#### Loadrunner
+#### TestLink
+#### Quality Center(ALM)
+
+
