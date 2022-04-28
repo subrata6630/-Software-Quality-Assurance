@@ -1,6 +1,6 @@
 # Software-Quality-Assurance
 
-# Types of Testing
+## Types of Testing
 
 ### Manual Testing
 ### Selenium automation testing
